@@ -38,7 +38,7 @@
 
 ### Vehicle Photo
 
-![MechaVortex RB](https://photos.app.goo.gl/RxpdFBdBiHLXKT759)
+📸 [View all vehicle photos on Google Photos](https://photos.app.goo.gl/RxpdFBdBiHLXKT759)
 
 > Additional vehicle photos (all sides: front, back, left, right, top, bottom) are available in the `v-photos/` folder.
 
